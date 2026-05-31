@@ -1,14 +1,15 @@
-Here is a **vibrant, professional, and comprehensive `README.md`** that transforms your project from a "hackathon submission" into a "production-ready product." It includes clear setup instructions, architecture diagrams, and the "Zero-Config" narrative you want.
-
----
-
 # 🛡️ PatchPoint: Unified Security Intelligence
 
 > **One SQL Query. Multiple Sources. Zero Glue Code.**
 
 PatchPoint is an enterprise-grade **Vulnerability Impact Mapper** that eliminates the fragmentation of modern security workflows. By leveraging **Coral SQL**, it joins code (GitHub), ownership (Linear), and context (Slack) into a single, queryable intelligence layer.
 
-![PatchPoint Dashboard](https://via.placeholder.com/1200x600?text=PatchPoint+Dashboard+Preview)
+![PatchPoint Dashboard] 
+<img width="1358" height="654" alt="brave_screenshot_019e7ddd-df42-7db3-b2c9-996096743ecb arena site" src="https://github.com/user-attachments/assets/613650d5-1829-4446-903c-021e8f4d104b" />
+<img width="1359" height="651" alt="brave_screenshot_019e7ddd-df42-7db3-b2c9-996096743ecb arena site (1)" src="https://github.com/user-attachments/assets/347284c6-c8c6-4098-8353-88c7315108c5" />
+<img width="1359" height="652" alt="brave_screenshot_019e7ddd-df42-7db3-b2c9-996096743ecb arena site (2)" src="https://github.com/user-attachments/assets/710c0357-4db2-44ee-926a-cfd158fbdc04" />
+
+
 
 ## 🌟 Why PatchPoint?
 
@@ -99,6 +100,7 @@ cp .env.example .env
 # --- MCP Credentials ---
 GITHUB_TOKEN=ghp_your_github_token
 LINEAR_API_KEY=lin_your_linear_key
+SLACK_API_KEY=lin_your_linear_key
 
 # --- AI Engine (Groq) ---
 GROQ_API_KEY=gsk_your_groq_key  # Get free key at console.groq.com
@@ -185,11 +187,4 @@ patchpoint/
 
 We welcome contributions! Please fork the repo and submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-
-**Copy this into your `README.md`.** It makes your project look like a serious startup product. 🏴‍☠️
+🏴‍☠️
